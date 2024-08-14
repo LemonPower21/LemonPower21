@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LemonPower21, but my real name is Francesco Vito Giotta
-- 📈 I'm TA Enthusiast, and I use Python for the alerts (Petrolium). I believe in random-walk of markets.
+- 📈 I'm TA Enthusiast, and I use Python for trading alarms. I believe in random-walk of markets.
 - 🌱 I’m currently learning Software Engineering and coding.
 - 💞️ I’m looking to collaborate with Google.
 - 📫 How to reach me: f.giottapower@gmail.com
