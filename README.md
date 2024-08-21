@@ -5,7 +5,8 @@
 - 📫 How to reach me: f.giottapower@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Single Forever!
-
+- 🖥️ I love C++ & Python more than HTML/CSS/JS
+- 🌐 My curriculum here: https://drive.google.com/file/d/15nAk2IhoP2vk8MNZItElAjisrtwwcArl/view?usp=sharing
 <!---
 LemonPower21/LemonPower21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
