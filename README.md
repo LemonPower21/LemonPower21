@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LemonPower21, but my real name is Francesco Vito Giotta
-- 📈 I'm TA and Trading enthusiast, and I use Python for trading alarms, but Pinescript for TA.
+- 📈 I'm in love with the stock market.
 - 🌱 I’m currently learning Software Engineering and coding.
 - 💞️ I’m looking to collaborate with Google.
 - 📫 How to reach me: f.giottapower@gmail.com
