@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LemonPower21, but my real name is Francesco Vito Giotta
 - 📈 I'm in love with the stock market.
 - 🌱 I’m currently learning Software Engineering and coding.
-- 💞️ I’m looking to collaborate with Google.
+- 💞️ I’m looking for collaborate with Google.
 - 📫 How to reach me: f.giottapower@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Single Forever!
