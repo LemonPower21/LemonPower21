@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LemonPower21, but my real name is Francesco Vito Giotta
-- 📈 T love investing and trading!
+- 📈 I love investing and trading!
 - 🌱 I’m currently learning Software Engineering and coding.
 - 💞️ I’m looking for collaborate with Google.
 - 📫 How to reach me: f.giottapower@gmail.com
