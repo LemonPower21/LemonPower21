@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Single Forever!
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
 - 👨‍💻 Creator and developer of "gfinancelib"!
-- 🤖 "Petrolium" creator and developer!
+- 🤖 "Petrolium" creator and developer but also user of that!
 <!---
 LemonPower21/LemonPower21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
