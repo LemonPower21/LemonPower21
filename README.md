@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Single Forever!
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
-- 👨‍💻 Creator and developer of "gfinancelib"!
+- 👨‍💻 Creator and developer of "gfinancelib" and "gosintlib"!
 - 🤖 Creator and developer of "Petrolium"!
 <!---
 LemonPower21/LemonPower21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
