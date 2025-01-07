@@ -8,9 +8,9 @@
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
 - 🤖 Creator and developer of "Petrolium"!
 - 👨‍💻 Creator and developer of
-  I. gfinancelib
-  II. gosintlib
-  III. shorty
+  + gfinancelib
+  + gosintlib
+  + shorty
 
 
 <!---
