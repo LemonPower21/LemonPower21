@@ -8,6 +8,8 @@
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
 - 👨‍💻 Creator and developer of "gfinancelib" and "gosintlib"!
 - 🤖 Creator and developer of "Petrolium"!
+- *.scm linguist-language=Scheme
+
 <!---
 LemonPower21/LemonPower21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
