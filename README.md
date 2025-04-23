@@ -4,7 +4,6 @@
 - 💞️ I’m looking forward to working @ Google.
 - 📫 How to reach me: giotta.francescovitosp@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Single Forever!
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
 - 🤖 Creator and developer of "Petrolium"!
 - 👨‍💻 Creator and developer of
