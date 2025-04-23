@@ -2,7 +2,7 @@
 - 📈 I love investing
 - 🌱 I’m currently learning Software Engineering and coding.
 - 💞️ I’m looking forward to working @ Google.
-- 📫 How to reach me: f.giottapower@gmail.com
+- 📫 How to reach me: giotta.francescovitosp@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Single Forever!
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
