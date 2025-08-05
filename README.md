@@ -6,7 +6,7 @@
 - 😄 Pronouns: He/Him
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
 - 🤖 Creator and developer of "Petrolium"
-- 🌐⛓️ Founder of "Viniero" token in Solana Blockchain
+- 🌐⛓️ Founder of "Viniero" token on Solana Blockchain
 - 👨‍💻 Creator and developer of
   + gfinancelib
   + gosintlib
