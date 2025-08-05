@@ -5,11 +5,14 @@
 - 📫 How to reach me: giotta.francescovitosp@gmail.com
 - 😄 Pronouns: He/Him
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
-- 🤖 Creator and developer of "Petrolium"!
+- 🤖 Creator and developer of "Petrolium"
+- 🌐⛓️ Founder of "Viniero" token in Solana Blockchain
 - 👨‍💻 Creator and developer of
   + gfinancelib
   + gosintlib
   + shorty
+  + Meta AI Un-official App
+  + SimpleCaller App
 
 
 <!---
