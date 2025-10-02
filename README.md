@@ -14,7 +14,9 @@
   + Meta AI Un-official App
   + SimpleCaller App
 
+[![LemonPower21's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonPower21&show_icons=true&theme=solarized-dark)](https://github.com/LemonPower21)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&layout=compact&theme=solarized-dark)](https://github.com/LemonPower21)
 <!---
 LemonPower21/LemonPower21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
