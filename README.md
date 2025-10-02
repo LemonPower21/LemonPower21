@@ -1,4 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=LemonPower21&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="LemonPower21's GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=LemonPower21&theme=dark&hide_border=true" alt="LemonPower21's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LemonPower21&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="LemonPower21's GitHub Stats" />
 
 - 👋 Hi, I’m @LemonPower21, but my real name is Francesco Vito Giotta
 - 📈 I love investing
@@ -19,6 +19,7 @@
   + Meta AI Un-official App
   + SimpleCaller App
 
+ <img src="https://streak-stats.demolab.com?user=LemonPower21&theme=dark&hide_border=true" alt="LemonPower21's GitHub Stats" />
 
 <!---
 LemonPower21/LemonPower21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
