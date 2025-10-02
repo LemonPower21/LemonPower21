@@ -1,5 +1,4 @@
-<img src="https://github-readme-stats.vercel.app/api?username=LemonPower21&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="LemonPower21's GitHub Stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="LemonPower21's GitHub Stats" />
-<img src="https://streak-stats.demolab.com?user=LemonPower21&theme=dark&hide_border=false" alt="LemonPower21's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=LemonPower21&theme=dark&show_icons=true&hide_border=false&count_private=true" alt="LemonPower21's GitHub Stats" /> <img src="https://streak-stats.demolab.com?user=LemonPower21&theme=dark&hide_border=false" alt="LemonPower21's GitHub Stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&theme=dark&show_icons=true&hide_border=false&layout=compact" alt="LemonPower21's GitHub Stats" />
 
 - 👋 Hi, I’m @LemonPower21, but my real name is Francesco Vito Giotta
 - 📈 I love investing
