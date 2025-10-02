@@ -8,7 +8,7 @@
 - 😄 Pronouns: He/Him
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="LemonPower21's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&theme=dark&show_icons=true&hide_border=true&layout=compact" alt="LemonPower21's GitHub Stats" />
   
 - 🤖 Creator and developer of "Petrolium"
 - 🌐⛓️ Founder of "Viniero" token on Solana Blockchain (DevNet Project for now)
