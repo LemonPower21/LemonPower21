@@ -5,7 +5,9 @@
 - 📫 How to reach me: giotta.francescovitosp@gmail.com
 - 😄 Pronouns: He/Him
 - 🖥️ I love C++ & Python more than HTML/CSS/JS
+  
 [![LemonPower21's GitHub stats](https://github-readme-stats.vercel.app/api?username=LemonPower21&show_icons=true&theme=solarized-dark)](https://github.com/LemonPower21)
+
 - 🤖 Creator and developer of "Petrolium"
 - 🌐⛓️ Founder of "Viniero" token on Solana Blockchain (DevNet Project for now)
 - 👨‍💻 Creator and developer of
