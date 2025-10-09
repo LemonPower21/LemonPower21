@@ -11,7 +11,7 @@
 
 - I’m looking forward to working @ **Google**
 
-- 👨‍💻 All of my projects are available at [https://lemonpower21.github.io/](https://lemonpower21.github.io/)
+- 👨‍💻 All of my projects are available @ [https://lemonpower21.github.io/](https://lemonpower21.github.io/)
 
 - 🖥️ Sometimes I post video on [https://www.youtube.com/@LemonPower21](https://www.youtube.com/@LemonPower21)
 
