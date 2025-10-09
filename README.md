@@ -39,4 +39,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lemonpower21&show_icons=true&theme=dark&locale=en" alt="lemonpower21" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemonpower21&theme=dark" alt="lemonpower21" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lemonpower21&theme=default" alt="lemonpower21" /></p>
