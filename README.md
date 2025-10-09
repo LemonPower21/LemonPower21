@@ -15,7 +15,7 @@
 
 - 🖥️ Sometimes I post video on [https://www.youtube.com/@LemonPower21](https://www.youtube.com/@LemonPower21)
 
-- 💬 Ask me about **Python,C++,HTML,CSS,JS,Linux...**
+- 💬 Ask me about **Python, C++, HTML, CSS, JS, Linux...**
 
 - 📫 How to reach me **giotta.francescovitosp@gmail.com**
 
