@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Francesco Vito Giotta (LemonPower21)</h1>
-<h3 align="center">A passionate frontend developer from Italy 🇮🇹</h3>
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/86d4d499-e2e7-4c5d-90aa-262cc70f2955" /><h1 align="center">Hi 👋, I'm Francesco Vito Giotta (LemonPower21)</h1>
+<h3 align="center">A passionate frontend developer from 🇮🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonpower21&label=Profile%20views&color=0e75b6&style=flat" alt="lemonpower21" /> </p>
 
