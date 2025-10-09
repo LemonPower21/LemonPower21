@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Vito Giotta (LemonPower21)</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate frontend developer from Italy 🇮🇹</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lemonpower21&label=Profile%20views&color=0e75b6&style=flat" alt="lemonpower21" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 📈 I love investing in **Stock Market**
 
-- I’m looking forward to work @ **Google**
+- I’m looking forward to working @ **Google**
 
 - 👨‍💻 All of my projects are available at [https://lemonpower21.github.io/](https://lemonpower21.github.io/)
 
