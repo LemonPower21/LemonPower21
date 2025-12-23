@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Francesco Vito Giotta (LemonPower21)</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&color=82a2c2&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Computer+Engineering+Student;Stock+Market+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&color=82a2c2&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Computer+Engineering+Student+@+Polito;Stock+Market+Enthusiast" alt="Typing SVG" />
 </p>
 <p align = "left">
 <div align="center">
