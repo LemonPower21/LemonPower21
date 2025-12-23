@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francesco Vito Giotta (LemonPower21)</h1>
-<h3 align="center">A passionate backend & frontend developer from Italy</h3>
+<h3 align="center">A passionate backend & frontend developer from Italy</h3><p align="right"> <img src="https://komarev.com/ghpvc/?username=lemonpower21&label=Profile%20views&color=0e75b6&style=flat" alt="lemonpower21" /> </p>
 <p align = "left">
 <div align="center">
   <img src="https://media.tenor.com/AfsTQR65-aQAAAAj/anonymous.gif" width="200" alt="gold emblem" style="vertical-align: middle;">
@@ -8,7 +8,6 @@
   </a>
 </div>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonpower21&label=Profile%20views&color=0e75b6&style=flat" alt="lemonpower21" /> </p>
 
 - 🔭 I’m currently trying to get better **Step-by-Step**
 
