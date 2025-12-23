@@ -15,7 +15,7 @@
 
 - 📈 I love investing in **Stock Market**
 
-- I’m looking forward to work @ **Google**
+- ♥️ I’m looking forward to work @ **Google**
 
 - 👨‍💻 All of my projects are available at [https://lemonpower21.github.io/](https://lemonpower21.github.io/)
 
