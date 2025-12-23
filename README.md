@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco Vito Giotta (LemonPower21)</h1>
-<h3 align="center">A passionate backend & frontend developer from Italy</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=22&pause=1000&color=A9B1D6&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Computer+Engineering+Student;Stock+Market+Enthusiast" alt="Typing SVG" />
+</p>
 <p align = "left">
 <div align="center">
   <img src="https://media.tenor.com/AfsTQR65-aQAAAAj/anonymous.gif" width="200" alt="gold emblem" style="vertical-align: middle;">
