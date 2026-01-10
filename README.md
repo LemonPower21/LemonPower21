@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&color=82a2c2&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Computer+Engineering+Student+@+Polito;Stock+Market+Enthusiast" alt="Typing SVG" />
 </p>
-<p align = "left">
+<p align = "center">
 <div align="center">
   <img src="https://media.tenor.com/AfsTQR65-aQAAAAj/anonymous.gif" width="200" alt="gold emblem" style="vertical-align: middle;">
   <a href="https://git.io/awesome-stats-card">
