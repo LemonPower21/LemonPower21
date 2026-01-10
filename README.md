@@ -25,7 +25,7 @@
 
 - 💬 Ask me about **Python, C++, HTML, CSS, JS, Linux...**
 
-- 🎖️🇮🇹 321th Italian GitHub Contributor: [Top GitHub Users ITALY](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md)
+- 🎖️🇮🇹 321th Italian GitHub Contributor: [Top GitHub Users Italy](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md)
 
 - 📫 How to reach me **giotta.francescovitosp@gmail.com**
 
