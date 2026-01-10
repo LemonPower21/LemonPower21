@@ -19,17 +19,17 @@
 
 - ♥️ I’m looking forward to work @ **Google**
 
-- 👨‍💻 All of my projects are available at [https://lemonpower21.github.io/](https://lemonpower21.github.io/)
+- 👨‍💻 All of my projects are available on [LemonBio](https://lemonpower21.github.io/)
 
-- 🖥️ Sometimes I post video on [https://www.youtube.com/@LemonPower21](https://www.youtube.com/@LemonPower21)
+- 🖥️ Sometimes I post video on [YouTube](https://www.youtube.com/@LemonPower21)
 
 - 💬 Ask me about **Python, C++, HTML, CSS, JS, Linux...**
 
-- 🎖️🇮🇹 321th Italian GitHub Contributor: [Top GitHub User](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md)
+- 🎖️🇮🇹 321th Italian GitHub Contributor: [Top GitHub Users ITALY](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md)
 
 - 📫 How to reach me **giotta.francescovitosp@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/francesco-vito-giotta-969938314/](https://www.linkedin.com/in/francesco-vito-giotta-969938314/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/francesco-vito-giotta-969938314/)
 
 - ⚡ Fun fact **I'll be forever single!**
 
