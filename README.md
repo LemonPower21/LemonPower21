@@ -19,7 +19,7 @@
 
 - ♥️ I’m looking forward to work @ **Google**
 
-- 👨‍💻 All of my projects are available on [LemonBio](https://lemonpower21.github.io/)
+- 👨‍💻 All of my projects are available on [LemonPower21-Website](https://lemonpower21.github.io/)
 
 - 🖥️ Sometimes I post video on [YouTube](https://www.youtube.com/@LemonPower21)
 
