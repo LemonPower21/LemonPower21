@@ -36,7 +36,9 @@
 - ⚡ Fun fact **I'll be forever single!**
 
 <h3 align="left">LeetCode Stats</h3>
+
 ![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=LemonPower21&theme=nord)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francesco-vito-giotta-969938314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-vito-giotta-969938314" height="30" width="40" /></a>
