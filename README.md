@@ -36,6 +36,7 @@
 - ⚡ Fun fact **I'll be forever single!**
 
 <h3 align="left">Leetcode Stats</h3>
+
 ![LeetCode Status](https://leetcode-status.vercel.app/api?username=lemonpower21&theme=dark)
 
 
