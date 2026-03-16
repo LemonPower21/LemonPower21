@@ -37,7 +37,7 @@
 
 <h3 align="left">Leetcode Stats</h3>
 
-![LeetCode Status](https://leetcode-status.vercel.app/api?username=lemonpower21&theme=dark)
+![LeetCode Status](https://leetcode-status.vercel.app/api?username=LemonPower21&theme=dark)
 
 
 <h3 align="left">Connect with me:</h3>
