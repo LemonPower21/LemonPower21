@@ -11,7 +11,7 @@
 </div>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LemonPower21&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LemonPower21&theme=nord)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently trying to get better **Step-by-Step**
 
@@ -37,7 +37,7 @@
 
 <h3 align="left">LeetCode Stats</h3>
 
-![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=LemonPower21&theme=nord)
+![LeetCode Stats](https://leetcode-stats-six.vercel.app/?username=LemonPower21&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
