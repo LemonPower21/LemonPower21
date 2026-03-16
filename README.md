@@ -11,7 +11,7 @@
 </div>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=LemonPower21)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=LemonPower21&theme=dark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 🔭 I’m currently trying to get better **Step-by-Step**
 
