@@ -11,6 +11,9 @@
 </div>
 <br>
 
+<p align="center">
+  <img src="https://trophygh.kolioaris.xyz/?username=LemonPower21&theme=nord&margin-w=15&no-bg=true" alt="LemonPower21 GitHub Trophies" />
+</p>
 
 - 🔭 I’m currently trying to get better **Step-by-Step**
 
