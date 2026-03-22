@@ -53,3 +53,63 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lemonpower21&label=Profile%20views&color=0e75b6&style=flat" alt="lemonpower21" /> </p>
 
+# 🍋 Ciao, sono LemonPower21!
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LemonPower21&label=Profilo%20Visto&color=81a1c1&style=flat-square" alt="LemonPower21" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies (Nord Theme)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LemonPower21&theme=nord&no-frame=true&margin-w=15" alt="trophies" />
+</p>
+
+---
+
+## 📊 Le Mie Statistiche (Nord Theme)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LemonPower21&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="Statistiche Generali" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Linguaggi più usati" />
+</p>
+
+---
+
+## 📅 Calendario dei Commit Isometrico 3D
+
+<p align="center">
+  <img src="https://render.githubusercontent.com/render/math?mode=light&height=250&width=800&user=LemonPower21&view=isometric&repo=LemonPower21" alt="Calendario Isometrico 3D" />
+</p>
+
+---
+
+## 📈 Grafico di Attività Recente (Standard GitHub)
+
+<p align="center">
+  <img src="https://activity-graph.herokuapp.com/graph?username=LemonPower21&bg_color=2e3440&color=81a1c1&line=81a1c1&point=d8dee9&area=true&hide_border=true" alt="Grafico di Attività" />
+</p>
+
+---
+
+## 🌟 Storico delle Stelle (Star History)
+
+<p align="center">
+  <a href="https://star-history.com/#LemonPower21">
+    <img src="https://api.star-history.com/svg?repos=LemonPower21/LemonPower21&theme=dark" alt="Star History Graph" />
+  </a>
+</p>
+
+---
+
+## 🗺️ Mappa dei Visitatori Globale
+
+<p align="center">
+  <a href="https://clustrmaps.com/site/1byp9" title="Visitatori"><img src="//clustrmaps.com/map_v2.png?cl=ffffff&w=a&t=n&d=your_clustrmaps_id_here" /></a>
+</p>
+
+*(Nota: Per attivare la mappa dei visitatori reale, devi registrarti su ClustrMaps, aggiungere il tuo profilo GitHub e sostituire `your_clustrmaps_id_here` con l'ID fornito da loro).*
