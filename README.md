@@ -39,9 +39,9 @@
 
 <h3 align="left">GitHub & Leetcode Stats</h3>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&stats_format=bytes&theme=nord" width="48%" />
-  <img src="https://leetcode-stats-fast.vercel.app/api?username=lemonpower21&theme=nord" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&stats_format=bytes&theme=nord" width="350" />
+  <img src="https://leetcode-stats-fast.vercel.app/api?username=lemonpower21&theme=nord" width="350" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
