@@ -57,7 +57,7 @@
 
 <p align="center">
   <a href="https://star-history.com/#LemonPower21">
-    <img src="https://api.star-history.com/svg?repos=LemonPower21/LemonPower21&theme=dark" alt="Star History Graph" />
+    <img src="https://api.star-history.com/svg?repos=LemonPower21/LemonPower21&theme=nord" alt="Star History Graph" />
   </a>
 </p>
 
@@ -66,6 +66,6 @@
 ## Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LemonPower21&theme=nord&no-bg=true&no-frame=true" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=LemonPower21&theme=nord" alt="trophies" />
 </p>
 
