@@ -41,6 +41,7 @@
 
 ![LeetCode Status](https://leetcode-stats-fast.vercel.app/api?username=lemonpower21&theme=nord)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LemonPower21&stats_format=bytes&theme=nord)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
