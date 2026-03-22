@@ -60,12 +60,3 @@
     <img src="https://api.star-history.com/svg?repos=LemonPower21/LemonPower21&theme=nord" alt="Star History Graph" />
   </a>
 </p>
-
----
-
-## Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LemonPower21&theme=nord" alt="trophies" />
-</p>
-
