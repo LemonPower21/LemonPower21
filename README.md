@@ -48,7 +48,7 @@
 
 <p align="center">
   <a href="https://github.com/Hecsall/spotiwidget">
-    <img src="https://spotiwidget.vercel.app/widget?uid=31wceakqgm7bnnjhvm57zl447uxy&theme=nord&invert_artist_title=true&cover=true&progress_bar=true&progress_color=%2388c0d0&sound_waves=true&sound_waves_color=%2381a1c1&background=true&background_color=%232e3440" alt="SpotiWidget">
+    <img src="https://spotiwidget.vercel.app/widget?uid=31wceakqgm7bnnjhvm57zl447uxy&theme=natemoo-re&background=true&background_color=2e3440&progress_color=88c0d0&sound_waves_color=81a1c1&invert_artist_title=false&cover=true&progress_bar=true&sound_waves=true" alt="Spotify Widget Nord">
   </a>
 </p>
 
