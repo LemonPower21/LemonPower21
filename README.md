@@ -46,7 +46,7 @@
 
 <h3 align="left">🎶 What I'm listening now</h3>
 
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/user/31wceakqgm7bnnjhvm57zl447uxy)
+[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=31wceakqgm7bnnjhvm57zl447uxy&theme=natemoo-re&invert_artist_title=true&cover=true&progress_bar=true&progress_color=%23ffffff&sound_waves=true&sound_waves_color=%23644fcf&background=true&background_color=%232e3440)](https://github.com/Hecsall/spotiwidget)
 
 
 <h3 align="left">Connect with me:</h3>
