@@ -44,6 +44,9 @@
   <img src="https://leetcode-stats-fast.vercel.app/api?username=lemonpower21&theme=nord" width="350" />
 </p>
 
+<h3 align="left">🎶 What I'm listening now</h3>
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/user/TUO_ID_SPOTIFY)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/francesco-vito-giotta-969938314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco-vito-giotta-969938314" height="30" width="40" /></a>
