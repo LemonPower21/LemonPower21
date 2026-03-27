@@ -45,7 +45,9 @@
 </p>
 
 <h3 align="left">🎶 What I'm listening now</h3>
-[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/user/TUO_ID_SPOTIFY)
+
+[![Spotify](https://novatorem-spotify-readme.vercel.app/api/now-playing)](https://open.spotify.com/user/31wceakqgm7bnnjhvm57zl447uxy)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
