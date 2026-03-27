@@ -46,11 +46,7 @@
 
 <h3 align="left">🎶 What I'm listening now</h3>
 
-<p align="center">
-  <a href="https://github.com/Hecsall/spotiwidget">
-    <img src="https://spotiwidget.vercel.app/widget?uid=31wceakqgm7bnnjhvm57zl447uxy&theme=natemoo-re&background=true&background_color=2e3440&progress_color=88c0d0&sound_waves_color=81a1c1&invert_artist_title=false&cover=true&progress_bar=true&sound_waves=true" alt="Spotify Widget Nord">
-  </a>
-</p>
+[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=31wceakqgm7bnnjhvm57zl447uxy&theme=natemoo-re&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23B3B3B3&sound_waves=true&sound_waves_color=%23493fd5&background=true&background_color=%23121212&align=center)](https://github.com/Hecsall/spotiwidget)
 
 
 <h3 align="left">Connect with me:</h3>
