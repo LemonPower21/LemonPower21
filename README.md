@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark" width="350" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=nord" width="350" />
 </p>
 
 <h3 align="left">🎶 What I'm listening now</h3>
