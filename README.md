@@ -44,7 +44,10 @@
   <img src="https://leetcode-stats-fast.vercel.app/api?username=lemonpower21&theme=nord" width="350" />
 </p>
 
-ù![Top Languages](https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark)
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark" width="350" />
+</p>
+
 <h3 align="left">🎶 What I'm listening now</h3>
 
 [![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=31wceakqgm7bnnjhvm57zl447uxy&theme=natemoo-re&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23d8dde8&sound_waves=true&sound_waves_color=%2382a2c2&background=true&background_color=%232e3440)](https://github.com/Hecsall/spotiwidget)
