@@ -29,7 +29,11 @@
 
 - 💬 Ask me about **Python, C++, HTML, CSS, JS, Linux...**
 
-- 🎖️🇮🇹 321th Italian GitHub Contributor: [Top GitHub Users Italy](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md)
+- 🎖️🇮🇹 321th Italian GitHub Contributor (GayanVoice): [Top GitHub Users Italy](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md)
+
+- 🎖️🇮🇹 247th Italian GitHub Contributor (Committers-Top-List)
+  
+[![committers.top badge](https://user-badge.committers.top/italy/USERNAME.svg)](https://user-badge.committers.top/italy/LemonPower21)
 
 - 📫 How to reach me **giotta.francescovitosp@gmail.com**
 
