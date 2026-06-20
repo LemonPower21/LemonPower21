@@ -74,7 +74,7 @@
       </a>
     </td>
     <td>
-      <a href="https://www.youtube.com/c/lemonpower21" target="blank">
+      <a href="https://www.youtube.com/@LemonPower21" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
       </a>
     </td>
