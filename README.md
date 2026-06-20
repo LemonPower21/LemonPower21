@@ -88,8 +88,6 @@
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/substack.svg" alt="substack" height="30" width="40" style="filter: invert(44%) sepia(91%) saturate(1243%) hue-rotate(345deg) brightness(97%) contrast(93%);" />
       </a>
     </td>
-    <td>
-  </tr>
 </table>
 
 <h3 align="left">Languages and Tools:</h3>
