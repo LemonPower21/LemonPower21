@@ -13,9 +13,9 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Currently studying **Computer Engineering** at Politecnico di Torino.
-* 📈 Passionate about tech, coding, nature and continuous self-improvement.
-* 🛠️ Main Tech Stack: **Python, C++, C, HTML/CSS, Linux, MATLAB**.
+* 🎓 Currently studying **Computer Engineering** at **Politecnico di Torino**
+* 📈 Passionate about tech, coding, nature and continuous self-improvement
+* 🛠️ Main Tech Stack: **Python, C++, C, HTML/CSS, Linux, MATLAB**
 * 🌐 Personal Website: [LemonPower21-Website](https://lemonpower21.github.io)
 
 ---
