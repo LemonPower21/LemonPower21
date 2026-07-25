@@ -1,134 +1,45 @@
-<h1 align="center">Hi 👋, I'm Francesco Vito Giotta (LemonPower21)</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=25&pause=1000&color=82a2c2&center=true&vCenter=true&width=500&lines=Backend+%26+Frontend+Developer;Computer+Engineering+Student+@+Polito;Stock+Market+Enthusiast" alt="Typing SVG" />
-</p>
-<p align = "center">
-<div align="center">
-  <img src="https://media.tenor.com/AfsTQR65-aQAAAAj/anonymous.gif" width="200" alt="gold emblem" style="vertical-align: middle;">
-  <a href="https://git.io/awesome-stats-card">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/LemonPower21?cardType=level&theme=nord&fontFamily=Ubuntu%20Mono&preferLogin=false" alt="My Awesome Stats" style="vertical-align: middle;">
-  </a>
-</div>
-<br>
+<h1 align="center">Hi 👋, I'm Francesco Vito Giotta</h1>
+<h3 align="center">Computer Engineering Student @ PoliTo</h3>
 
 <p align="center">
-  <img src="https://trophygh.kolioaris.xyz/?username=LemonPower21&theme=nord&margin-w=15&no-bg=true" alt="LemonPower21 GitHub Trophies" />
-</p>
-
-- 🔭 I’m currently trying to get better **Step-by-Step**
-
-- 🌱 I’m currently learning **Computer Engineering**
-
-- 📈 I love investing in **Stock Market**
-
-- ♥️ I’m looking forward to work @ **Google**
-
-- 👨‍💻 All of my projects are available on [LemonPower21-Website](https://lemonpower21.github.io/)
-
-- 🖥️ Sometimes I post video on [YouTube](https://www.youtube.com/@LemonPower21)
-
-- 💬 Ask me about **Python, C++, HTML, CSS, JS, Linux...**
-
-- 🎖️🇮🇹 293rd Italian GitHub Contributor (GayanVoice): [Top GitHub Users Italy](https://github.com/gayanvoice/top-github-users/blob/main/markdown/public_contributions/italy.md)
-
-- 🎖️🇮🇹 247th Italian GitHub Contributor (Committers-Top-List): [![committers.top badge](https://user-badge.committers.top/italy/USERNAME.svg)](https://user-badge.committers.top/italy/LemonPower21)
-
-- 📫 How to reach me **giotta.francescovitosp@gmail.com**
-
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/francesco-vito-giotta-969938314/)
-
-- ⚡ Fun fact **I'll be forever single!**
-
-<h3 align="left">GitHub & Leetcode Stats</h3>
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=LemonPower21&theme=nord&hide_border=true" width="350" />
-  <img src="https://leetcode-stats-fast.vercel.app/api?username=lemonpower21&theme=nord" width="350" />
-</p>
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=nord" width="350" />
-</p>
-
-<h3 align="left">🎶 What I'm listening now</h3>
-
-[![SpotiWidget](https://spotiwidget.vercel.app/widget?uid=31wceakqgm7bnnjhvm57zl447uxy&theme=natemoo-re&invert_artist_title=false&cover=true&progress_bar=true&progress_color=%23d8dde8&sound_waves=true&sound_waves_color=%2382a2c2&background=true&background_color=%232e3440)](https://github.com/Hecsall/spotiwidget)
-
-<h3 align="left">Connect with me:</h3>
-
-<table border="0">
-  <tr>
-    <td>
-      <a href="https://linkedin.com/in/francesco-vito-giotta-969938314" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://stackoverflow.com/users/30568312" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://medium.com/@lemonpower21" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.youtube.com/@LemonPower21" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.leetcode.com/lemonpower21" target="blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://lemonpower21.substack.com" target="blank">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/substack.svg" alt="substack" height="30" width="40" style="filter: invert(44%) sepia(91%) saturate(1243%) hue-rotate(345deg) brightness(97%) contrast(93%);" />
-      </a>
-    </td>
-</table>
-
-<h3 align="left">Languages and Tools:</h3>
-
-<table border="0">
-  <tr>
-    <td><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a></td>
-    <td><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/></a></td>
-    <td><a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/></a></td>
-    <td><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a></td>
-    <td><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a></td>
-    <td><a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/></a></td>
-    <td><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></td>
-    <td><a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a></td>
-    <td><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/></a></td>
-    <td><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=LemonPower21&label=Profile%20Views&color=blue&style=flat-square" alt="LemonPower21 Visitor Counter" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:giotta.francescovitosp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://youtube.com/YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
 </p>
 
 ---
 
-## 🌟 Star History
+### 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://star-history.com/#LemonPower21">
-    <img src="https://api.star-history.com/svg?repos=LemonPower21/LemonPower21&theme=nord" alt="Star History Graph" />
-  </a>
+* 🎓 Currently studying **Computer Engineering** at Politecnico di Torino.
+* 📈 Passionate about tech, coding, and continuous self-improvement.
+* 🛠️ Main Tech Stack: **Python, C++, C, HTML/CSS, Linux, MATLAB**.
+* 🌐 Personal Website: [LemonPower21-Website](https://LemonPower21-Website)
+
+---
+
+### 💻 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/>
 </p>
 
 ---
 
-## Visitators
-
-<p align="center"><a href="https://info.flagcounter.com/Tvwu"><img src="https://s01.flagcounter.com/count2/Tvwu/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a></p>
-
+<p align="center">
+  <i>"Step by step."</i>
+</p>
