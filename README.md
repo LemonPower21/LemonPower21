@@ -2,9 +2,11 @@
 <h3 align="center">Computer Engineering Student @ PoliTo</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:giotta.francescovitosp@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://youtube.com/YOUR_YOUTUBE"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.youtube.com/@LemonPower21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://lemonpower21.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
+  <a href="https://www.youtube.com/@LemonPower21"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/lemon_power21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.tiktok.com/@lemonpower21x"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 </p>
 
 ---
@@ -14,7 +16,7 @@
 * 🎓 Currently studying **Computer Engineering** at Politecnico di Torino.
 * 📈 Passionate about tech, coding, and continuous self-improvement.
 * 🛠️ Main Tech Stack: **Python, C++, C, HTML/CSS, Linux, MATLAB**.
-* 🌐 Personal Website: [LemonPower21-Website](https://LemonPower21-Website)
+* 🌐 Personal Website: [LemonPower21-Website](https://lemonpower21.github.io)
 
 ---
 
