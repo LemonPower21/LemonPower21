@@ -12,6 +12,8 @@
 <div align="center">
 </div>
 
+---
+
 ### 👨‍💻 About Me
 
 * 🎓 Currently studying **Computer Engineering** at **Politecnico di Torino**
@@ -20,6 +22,8 @@
 * 🌐 Personal Website: [LemonPower21-Website](https://lemonpower21.github.io)
 
 <br />
+
+---
 
 ### 💻 Languages & Tools
 
