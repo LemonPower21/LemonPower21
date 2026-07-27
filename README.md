@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="i1.svg" alt="i1 SVG" />
+  <img src="ttps://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20%40Polito%20%23%23&theme=dark&color=%2359a7ff&particleColor=%2311151b&background=%2359a7ff" />
 </p>
 
 ---
