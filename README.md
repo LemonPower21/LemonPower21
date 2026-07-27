@@ -11,20 +11,6 @@
 
 <br />
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20%40%20PoliTo%20%23%23&theme=dark&color=%2359a7ff&particleColor=%2311151b&background=%2359a7ff" alt="Typing SVG" width="100%" />
-</p>
-
----
-
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=LemonPower21&theme=dark&hide_border=true" alt="GitHub Stats" width="90%" />
-  <br /><br />
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark&hide_border=true" alt="Top Languages" width="90%" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
