@@ -20,7 +20,7 @@
 * 🎓 **Education:** Pursuing a Bachelor's Degree in **Computer Engineering** at **Politecnico di Torino**.
 * 💡 **Interests:** Software Engineering, Financial Technology, Embedded Systems, and Continuous Learning.
 * 🌐 **Portfolio/Website:** [LemonPower21 Portfolio](https://lemonpower21.github.io)
-* 📬 **Contact:** Reach out via [LinkedIn](https://www.linkedin.com/in/francesco-vito-giotta-969938314) for collaborations or networking.
+* 📬 **Contact:** Reach out via [Email](mailto:giotta.francescovitosp@gmail.com) for collaborations or networking.
 
 ---
 
