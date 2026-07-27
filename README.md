@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francesco Vito Giotta</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0C93F6&center=true&vCenter=true&width=435&lines=Computer+Engineering+%40+PoliTo;Stock+Market+Enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20Student%20%40%20PoliTo%20%23%23&theme=dark&color=%232D7FF9&particleColor=%230e131a&background=%232D7FF9" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -22,6 +20,7 @@
   <img src="https://readme-stats-github.pages.dev/api?username=LemonPower21&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
   <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
 </p>
+
 ---
 
 ### 👨‍💻 About Me
