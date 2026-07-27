@@ -19,18 +19,9 @@
 ### 📈 Stats
 
 <p align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://readme-stats-github.pages.dev/api?username=LemonPower21&theme=dark" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://readme-stats-github.pages.dev/api?username=LemonPower21&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
+  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark&hide_border=true" alt="Top Languages" width="49%" />
 </p>
-
 ---
 
 ### 👨‍💻 About Me
