@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20%40%20Polito%20%23%23&theme=dark&color=%2359a7ff&particleColor=%2311151b&background=%2359a7ff" alt="Typing SVG" />
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20%40%20PoliTo%20%23%23&theme=dark&color=%2359a7ff&particleColor=%2311151b&background=%2359a7ff" alt="Typing SVG" />
 </p>
 
 ---
