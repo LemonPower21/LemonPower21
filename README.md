@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Francesco Vito Giotta</h1>
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20Student%20%40%20PoliTo%20%23%23&theme=dark&color=%232D7FF9&particleColor=%230e131a&background=%232D7FF9" alt="Typing SVG" />
-</p>
-
-<p align="center">
   <a href="https://www.youtube.com/@LemonPower21"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://lemonpower21.substack.com/"><img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack" /></a>
   <a href="https://www.youtube.com/@LemonPower21"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://www.instagram.com/lemon_power21/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="https://www.tiktok.com/@lemonpower21x"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20Student%20%40%20PoliTo%20%23%23&theme=dark&color=%232D7FF9&particleColor=%230e131a&background=%232D7FF9" alt="Typing SVG" />
 </p>
 
 ---
