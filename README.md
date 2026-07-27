@@ -9,12 +9,10 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-stats-github.pages.dev/api/typing?lines=Computer%20Engineering%20Student%20%40%20PoliTo%20%23%23&theme=dark&color=%232D7FF9&particleColor=%230e131a&background=%232D7FF9" alt="Typing SVG" />
+  <img src="https://camo.githubusercontent.com/abd236e2cf4ab0de23dc4660869c669896fbefbb245d857a5b5407b200db905f/68747470733a2f2f726561646d652d73746174732d6769746875622e70616765732e6465762f6170692f747970696e673f6c696e65733d436f6d7075746572253230456e67696e656572696e6725323053747564656e74253230253430253230506f6c69546f253230253233253233267468656d653d6461726b26636f6c6f723d253233324437464639267061727469636c65436f6c6f723d253233306531333161266261636b67726f756e643d253233324437464639" alt="Typing SVG" />
 </p>
 
 ---
-
-### 📈 Stats
 
 <p align="center">
   <img src="https://readme-stats-github.pages.dev/api?username=LemonPower21&theme=dark&hide_border=true" alt="GitHub Stats" width="49%" />
