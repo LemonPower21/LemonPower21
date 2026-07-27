@@ -16,6 +16,23 @@
 
 ---
 
+### 📈 Stats
+
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://readme-stats-github.pages.dev/api?username=LemonPower21&theme=dark" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 * 🎓 Currently studying **Computer Engineering** at **Politecnico di Torino**
