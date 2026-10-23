@@ -14,15 +14,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://readme-stats-github.pages.dev/api?username=LemonPower21&theme=dark" alt="LemonPower21's GitHub Stats" height="170" margin="5" />
-  <img src="https://readme-stats-github.pages.dev/api/top-langs?username=LemonPower21&theme=dark" alt="Top Languages" height="170" margin="5" />
-</p>
-
----
-
 ### 📌 About Me
 
 * 🎓 **Education:** Pursuing a Bachelor's Degree in **Computer Engineering** at **Politecnico di Torino**.
